@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find d:/xampp/htdocs/DAM/first_laravel/firstLaravel -name *.js)"
+    ]
+  }
+}
